@@ -13,6 +13,10 @@ public class Starter2 {
 
         System.out.println("zmiany zmiany zmiany");
 
+        System.out.println("Jezus");
+        System.out.println("cię");
+        System.out.println("kocha");
+
 
 
     }
