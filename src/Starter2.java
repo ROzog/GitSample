@@ -12,6 +12,8 @@ public class Starter2 {
 
 
         System.out.println("hhhuiyutuuy oskar tu byl");
+        System.out.println("cos tam");
+        System.out.println("awgagfa kuba");
     }
 
     public static void printText(String text) {
