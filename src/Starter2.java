@@ -38,14 +38,4 @@ public class Starter2 {
     }
 // drugi komentarz
 
-<<<<<<< Updated upstream
-=======
-    //trzeci komentarz
-
-
-// jest stachu w domu?
-    //czwart komentarz
-
-
->>>>>>> Stashed changes
 }
