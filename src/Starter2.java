@@ -27,6 +27,7 @@ public class Starter2 {
     public static void someText(String someText){
         System.out.println(someText);
     }
+    Kuba kuba = new Kuba("Jakub","Modras", 20);
 
 
 
