@@ -4,14 +4,14 @@ public class Starter2 {
         int age2 = 55;
         String name = "Tomasz";
         boolean prawda = true;
+        int value =77;
+        String city = "Krakow";
         System.out.println("dodałem");
         printText("nowa metodka");
-
-
         someText("hemoglobina taka sytuacja");
-
-
         System.out.println("hhhuiyutuuy oskar tu byl");
+        printText("kolejny text");
+
     }
 
     public static void printText(String text) {
