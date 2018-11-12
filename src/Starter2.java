@@ -28,12 +28,16 @@ public class Starter2 {
     public static void someText(String someText){
         System.out.println(someText);
     }
+
     public static double divide(double a, double b){
         return a/b;
     }
     public static String[] splittedArray(String text){
         return text.split(",");
     }
+
+    Kuba kuba = new Kuba("Jakub","Modras", 99);
+
 
 
 
