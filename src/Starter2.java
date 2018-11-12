@@ -36,6 +36,6 @@ public class Starter2 {
     public static String[] splittedArray(String text){
         return text.split(",");
     }
-
+// drugi komentarz
 
 }
