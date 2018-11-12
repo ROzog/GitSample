@@ -10,11 +10,11 @@ public class Starter2 {
         someText("hemoglobina taka sytuacja");
 
         System.out.println("jakies nowe zmiany");
-<<<<<<< HEAD
-        System.out.println("zmiany zmiany zmiany");
-=======
 
->>>>>>> c754b891cd2f7932dca2397235f96ce1ffcc217d
+        System.out.println("zmiany zmiany zmiany");
+
+
+
     }
 
     public static void printText(String text) {
