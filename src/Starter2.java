@@ -5,6 +5,7 @@ public class Starter2 {
         String name = "Tomasz";
         boolean prawda = true;
         int value =77;
+        final double PI = 3.14;
         String city = "Krakow";
         System.out.println("dodałem");
         printText("nowa metodka");
@@ -26,6 +27,12 @@ public class Starter2 {
 
     public static void someText(String someText){
         System.out.println(someText);
+    }
+    public static double divide(double a, double b){
+        return a/b;
+    }
+    public static String[] splittedArray(String text){
+        return text.split(",");
     }
 
 
