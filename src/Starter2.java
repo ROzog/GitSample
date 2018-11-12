@@ -15,7 +15,7 @@ public class Starter2 {
         printText("kolejny text");
         System.out.println("cos tam");
         System.out.println("awgagfa kuba");
-
+//NOEY 
     }
 
     public static void printText(String text) {
