@@ -28,8 +28,7 @@ public class Starter2 {
     public static void someText(String someText){
         System.out.println(someText);
     }
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
     public static double divide(double a, double b){
         return a/b;
@@ -37,14 +36,6 @@ public class Starter2 {
     public static String[] splittedArray(String text){
         return text.split(",");
     }
-
-    Kuba kuba = new Kuba("Jakub","Modras", 99);
-
-=======
->>>>>>> parent of 358c597... my main
-=======
->>>>>>> parent of 358c597... my main
-
 
 
 
