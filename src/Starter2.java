@@ -7,6 +7,7 @@ public class Starter2 {
         System.out.println("dodałem");
         printText("nowa metodka");
 
+
         someText("hemoglobina taka sytuacja");
 
         System.out.println("jakies nowe zmiany");
@@ -16,9 +17,6 @@ public class Starter2 {
         System.out.println("Jezus");
         System.out.println("cię");
         System.out.println("kocha");
-
-
-
     }
 
     public static void printText(String text) {
