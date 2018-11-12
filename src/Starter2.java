@@ -17,6 +17,8 @@ public class Starter2 {
         System.out.println("Jezus");
         System.out.println("cię");
         System.out.println("kocha");
+
+        System.out.println("hhhuiyutuuy oskar tu byl");
     }
 
     public static void printText(String text) {
