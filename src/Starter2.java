@@ -10,13 +10,7 @@ public class Starter2 {
 
         someText("hemoglobina taka sytuacja");
 
-        System.out.println("jakies nowe zmiany");
-
-        System.out.println("zmiany zmiany zmiany");
-
-        System.out.println("Jezus");
-        System.out.println("cię");
-        System.out.println("kocha");
+        
     }
 
     public static void printText(String text) {
