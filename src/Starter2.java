@@ -37,8 +37,7 @@ public class Starter2 {
         return text.split(",");
     }
 
-    Kuba kuba = new Kuba("Jakub","Modras", 99);
-
+   
 
 
 
