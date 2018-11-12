@@ -7,14 +7,6 @@ public class Starter2 {
         System.out.println("dodałem");
         printText("nowa metodka");
 
-        someText("hemoglobina taka sytuacja");
-
-        System.out.println("jakies nowe zmiany");
-
-        System.out.println("zmiany zmiany zmiany");
-
-
-
     }
 
     public static void printText(String text) {
