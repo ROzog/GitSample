@@ -10,7 +10,10 @@ public class Starter2 {
         printText("nowa metodka");
         someText("hemoglobina taka sytuacja");
         System.out.println("hhhuiyutuuy oskar tu byl");
+
         printText("kolejny text");
+        System.out.println("cos tam");
+        System.out.println("awgagfa kuba");
 
     }
 
