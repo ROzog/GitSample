@@ -42,5 +42,7 @@ public class Starter2 {
 
 
 // jest stachu w domu?
+    //czwart komentarz
+    
 
 }
