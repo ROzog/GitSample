@@ -11,4 +11,6 @@ public class Starter {
     }
 
     //KOmentarz
+    // kom 2
+    //kom3
 }
