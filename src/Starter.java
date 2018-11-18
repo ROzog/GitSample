@@ -19,4 +19,10 @@ public class Starter {
         }
         return true;
     }
+
+    public boolean isEmpty(String string){
+        if(string.equals("")){
+            return true;
+        }return false;
+    }
 }
