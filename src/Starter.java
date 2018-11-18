@@ -13,4 +13,10 @@ public class Starter {
     //KOmentarz
     // kom 2
     //kom3
+    public boolean isOk(int a){
+        if (a!=0){
+            return false;
+        }
+        return true;
+    }
 }
