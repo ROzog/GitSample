@@ -9,4 +9,6 @@ public class Starter {
     public static void secondTest(String text){
         System.out.println(text);
     }
+
+    //KOmentarz
 }
