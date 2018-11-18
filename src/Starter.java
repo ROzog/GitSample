@@ -5,4 +5,8 @@ public class Starter {
     public static void printSomething (String text){
         System.out.println(text);
     }
+
+    public void PrintSomething  (String string) {
+        System.out.println(string);
+    }
 }
